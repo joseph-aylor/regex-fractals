@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-controls',
+  selector: 'rf-controls',
   templateUrl: './controls.component.html',
   styleUrls: ['./controls.component.css']
 })

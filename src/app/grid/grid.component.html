@@ -1,3 +1,5 @@
-<p>
-  grid works!
-</p>
+<div>
+  <div *ngFor="let cell of cells">
+    <rf-cell [selector]="cell"></rf-cell>
+  </div>
+</div>
